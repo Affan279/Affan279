@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Affan279
+- 👋 Hi, I’m Mohammed Affan Zama
 - 👀 I’m interested in DSA and Data_Science
 - 🌱 I’m currently learning Data_Science
 - 📫 How to reach me : www.linkedin.com/in/affan-zama-9291021b6
