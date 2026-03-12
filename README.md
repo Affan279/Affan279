@@ -1,10 +1,45 @@
-- 👋 Hi, I’m Mohammed Affan Zama
-- 👀 I’m interested in DSA and Data_Science
-- 🌱 I’m currently learning Data_Science
-- 📫 How to reach me : www.linkedin.com/in/affan-zama-9291021b6
+👋 Hi, I’m **Mohammed Affan Zama**
 
+🎓 **About Me**
 
-<!---
-Affan279/Affan279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🎓 I’m currently a **3rd Year Computer Science Engineering (CSE) Student**
+* 👀 I’m interested in **Data Structures & Algorithms (DSA)** and **Data Science**
+* 🌱 I’m currently learning **Data Science** and exploring its real-world applications
+* 🧠 I enjoy solving problems using **mathematics and programming**
+
+🛠 **Skills & Tools**
+
+**Programming Languages:**
+
+* C
+* C++
+* Python
+
+**Data Science & Machine Learning:**
+
+* Pandas (Data Cleaning & Analysis)
+* NumPy
+* Scikit-learn
+
+**Data Visualization:**
+
+* Matplotlib
+
+**Tools & Technologies:**
+
+* Jupyter Notebook
+* Git
+* SQL
+
+**Core Knowledge:**
+
+* Mathematics
+* Data Structures & Algorithms
+
+📫 **Connect with me**
+
+* LinkedIn: https://www.linkedin.com/in/affan-zama-9291021b6
+
+---
+
+✨ *A passionate CSE student exploring algorithms, data science, and machine learning.*
