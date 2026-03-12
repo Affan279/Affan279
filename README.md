@@ -41,5 +41,3 @@
 * LinkedIn: https://www.linkedin.com/in/affan-zama-9291021b6
 
 ---
-
-✨ *A passionate CSE student exploring algorithms, data science, and machine learning.*
