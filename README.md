@@ -2,7 +2,7 @@
 
 🎓 **About Me**
 
-* 🎓 I’m currently a **3rd Year Computer Science Engineering (CSE) Student**
+* 🎓 I’m currently a **4th Year Computer Science Engineering (CSE) Student**
 * 👀 I’m interested in **Data Structures & Algorithms (DSA)** and **Data Science**
 * 🌱 I’m currently learning **Data Science** and exploring its real-world applications
 * 🧠 I enjoy solving problems using **mathematics and programming**
